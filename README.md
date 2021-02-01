@@ -7,7 +7,8 @@ Linux:
 öffne das Terminal und installiere Youtube-dl FFMPEG
 apt install youtube-dl ffmpeg -- Debian / Ubuntu basierende systeme
 pacman -S youtube-dl ffmpeg -- Arch basierende Systeme
-
+pip install future
+pip install youtube-dl
 mehr fallen mir nicht ein aber die Linux User wissen ja wie es auf deren Distro geht
 
 Windows:
@@ -15,6 +16,8 @@ http://blog.gregzaal.com/how-to-install-ffmpeg-on-windows/ -- FFMPEG
 
 https://danclowry.com/blog/youtube-dl-windows-install/ -- Youtube-dl
 
+pip install youtube-dl
+pip install future
 OS X:
 öffne das Terminal und gebe diese Commands ein
 
@@ -22,6 +25,8 @@ OS X:
 
 brew install ffmpeg
 brew install youtube-dl
+pip install youtube-dl
+pip install future
 
 
 English
@@ -42,6 +47,9 @@ http://blog.gregzaal.com/how-to-install-ffmpeg-on-windows/ -- FFMPEG
 
 https://danclowry.com/blog/youtube-dl-windows-install/ -- Youtube-dl
 
+pip install youtube-dl
+pip install future
+
 OS X:
 
 open the terminal and enter these commands
@@ -50,3 +58,5 @@ open the terminal and enter these commands
 
 brew install ffmpeg
 brew install youtube-dl
+pip install youtube-dl
+pip install future
