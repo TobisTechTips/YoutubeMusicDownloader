@@ -30,7 +30,7 @@ pip install future
 
 
 English
-German
+
 Hey to use the downloader you need to have youtube-dl and FFMPEG installed.
 if you don't have that refer to good tutorials
 
